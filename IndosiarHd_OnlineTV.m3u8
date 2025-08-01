@@ -1,2 +1,9 @@
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://home-tv.online:80/play/bi8i-s34ruiNP62agyEj_gzKCta3Gw709SV54nqIhNg
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.080000,
+http://syok.tv:25461/843839483/33999/2415
+#EXTINF:10.080000,
+https://smt.520761.xyz/Smart.php?id=Indosiar
