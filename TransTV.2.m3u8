@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=658980,RESOLUTION=640x360,FRAME-RATE=30.000
-https://radio.beta.noice.id/proxy?url=http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191805.ts
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1238329,RESOLUTION=1024x576,FRAME-RATE=30.000
-https://radio.beta.noice.id/proxy?url=http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191805.ts
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+https://radio.beta.noice.id/proxy?url=http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
