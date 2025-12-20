@@ -1,3 +1,5 @@
-#EXTM3U #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 #EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
+#EXTM3U
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
 http://66.90.99.154:8278/Trans7_eko/playlist.m3u8?tid=MA4A2751770027517700&ct=20347&tsum=764170c922eec9c0a2ce91393c891130
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
