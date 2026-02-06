@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
-#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=9.9.9.9
+#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=208.67.222.222
 #EXTVLCOPT:http-referrer="https://20.detik.com/
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x360
