@@ -933,6 +933,17 @@ http://sports.semar.my.id/channels.php?id=rdgtl.m3u8&auth=rdgtlsemar25
 
 
 #EXTINF:-1 tvg-id="Apple TV.id" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqaPd_dgDRboAAiRHVfcgrfw.png" group-title="Tv Nasional", MNCTV
+#EXTM3U
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
+#EXTVLCOPT:http-referrer="https://20.detik.com/
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x360
+http://103.146.197.250:25461/live/daeng/tmgrh/11.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238329,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://103.146.197.250:25461/live/daeng/tmgrh/11.m3u8
+
+
 https://raw.githubusercontent.com/Ekymutz/Ekymutz/refs/heads/main/MNCTV.%20Digital.m3u8
 
 
@@ -944,15 +955,8 @@ https://raw.githubusercontent.com/Ekymutz/Ekymutz/refs/heads/main/MNCTV.%20Digit
 https://nissa17.adptv.workers.dev/manifest.mpd?id=870&type=dash
 
 
-#EXTM3U
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
-#EXTVLCOPT:http-referrer="https://20.detik.com/
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x360
-http://syok.tv:25461/843839483/33999/2106
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238329,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://syok.tv:25461/843839483/33999/2106
+
+
 
 https://dickgital.semar.my.id/fetch?id=mnctv.m3u8&auth=mnctvsemar25
 https://dickgital.semar.my.id/fetch?id=mnctv.m3u8&auth=mnctvsemar25
