@@ -2,6 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXTINF:10.0,
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 http://syok.tv:25461/843839483/33999/25
 #EXT-X-ENDLIST
