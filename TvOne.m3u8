@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=760000,BANDWIDTH=960000,RESOLUTION=488x360,FRAME-RATE=25.000,CODECS="avc1.420015,mp4a.40.2",CLOSED-CAPTIONS=NONE
-tracks-v1a1/http://iptv.kilas7.com:80/live/kaukia/asdfrewq/5.m3u8
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/5.m3u8
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1560000,BANDWIDTH=1950000,RESOLUTION=786x576,FRAME-RATE=25.000,CODECS="avc1.42001e,mp4a.40.2",CLOSED-CAPTIONS=NONE
-tracks-v2a1/http://iptv.kilas7.com:80/live/kaukia/asdfrewq/5.m3u8
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/5.m3u8
 
 
 
